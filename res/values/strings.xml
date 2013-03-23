@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AhorraMoney</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="cantidad_text">Cantidad</string>
+    <string name="ahorra_text">Ahorra</string>
+    <string name="retira_text">Retira</string>
+    <string name="ahorrado_text">Cantidad Ahorrada</string>
+    <string name="retirar_ahorros_text">Retirar todos los ahorros</string>
+
+</resources>
